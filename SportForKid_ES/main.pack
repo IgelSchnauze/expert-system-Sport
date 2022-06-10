@@ -1,0 +1,12 @@
+﻿#include @"main.ph"
+
+% privately used packages
+#include @"pfc\fileSystem\fileSystem.ph"
+#include @"pfc\string\string.ph"
+#include @"pfc\application\Exe\exe.ph"
+#include @"pfc\commandLineParser\commandLineParser.ph"
+#include @"pfc\console\console.ph"
+#include @"pfc\core.ph"
+
+% implementations
+#include @"main.pro"
